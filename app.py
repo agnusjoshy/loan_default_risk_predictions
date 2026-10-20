@@ -4,7 +4,7 @@ import joblib
 from pathlib import Path
 
 # Get the project folder
-BASE_DIR = Path(Loan_Default_Risk_Predictions).parent
+BASE_DIR = Path(__file__).resolve().parent
 
 # Load the trained model and preprocessor
 MODEL_PATH = BASE_DIR / "voting_model.joblib"
