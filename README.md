@@ -75,7 +75,7 @@ been successfully implemented and tested.
 
 -   Home Credit Default Risk dataset: https://github.com/agnusjoshy/loan_default_risk_predictions.git
 -   scikit-learn documentation: https://scikit-learn.org/
--   Streamlit documentation: https://docs.streamlit.io/
+-   Streamlit documentation:https://lnt-project-c7ge8buefjzs2czuy8cbdg.streamlit.app/
 -   MLflow documentation: https://mlflow.org/docs/latest/
 -   SHAP documentation: https://shap.readthedocs.io/
 -   LIME documentation: https://lime-ml.readthedocs.io/
