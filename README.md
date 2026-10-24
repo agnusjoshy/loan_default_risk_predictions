@@ -53,7 +53,7 @@ SHAP (SHapley Additive exPlanations): Used to compute global feature importances
 LIME (Local Interpretable Model-agnostic Explanations): Applied locally to explain individual applicant predictions and feature contributions transparently.
 
 ###7. Deployment
-Deployment URL: https://loandefaultriskpredictions-he7jbnvnjoltywstwkstys.streamlit.app/
+Deployment URL:https://lnt-project-c7ge8buefjzs2czuy8cbdg.streamlit.app/
 
 
 ###8. Conclusion
